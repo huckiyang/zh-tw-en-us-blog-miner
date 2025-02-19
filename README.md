@@ -1,5 +1,13 @@
 # zh-tw-en-us-blog-miner
 
+- run
+
+```
+python nv-blog.py
+```
+
+- loading
+
 ```
 from datasets import load_from_disk, load_dataset
 
