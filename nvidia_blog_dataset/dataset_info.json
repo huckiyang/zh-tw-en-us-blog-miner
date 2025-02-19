@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "en_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "en_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "en_content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zh_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zh_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zh_content": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
