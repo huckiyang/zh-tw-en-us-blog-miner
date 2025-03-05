@@ -78,7 +78,7 @@ def get_chinese_article_links(main_page_url, num_articles=20):
 
 if __name__ == '__main__':
     # Number of article pairs you want
-    num_articles = 50
+    num_articles = 1000
 
     # Step 1: Get Chinese article links
     zh_main = "https://blogs.nvidia.com.tw/"
